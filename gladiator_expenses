@@ -17,3 +17,4 @@ for current_fight in range(lost_fights_count):
         expenses += armor_price
 
 print(f"Gladiator expenses: {expenses} aureus")
+
